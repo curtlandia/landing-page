@@ -28,6 +28,16 @@ button{
     border-style:none;
 }
 
+button:hover{
+    opacity: 75%;
+
+}
+
+
+button:active{
+    background-color: #e5e7eb;
+}
+
 .logo-container{
     display: flex;
     justify-content: flex-start;
